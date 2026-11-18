@@ -2,7 +2,7 @@ This repository contains the simulation codes used in the study to investigate t
 
 The repository includes simulation codes for two types of cultural systems (simple and complex cultures) and two models of cultural transmission (Model I and Model II). It also contains the simulation files used to perform sensitivity analyses to assess the robustness of the results to alternative parameter settings and model assumptions.
 
-Repository structure
+**Repository structure**
 
 Simple cultures – Model I: Simulation codes for simple cultural systems under Model I.
 
@@ -14,7 +14,7 @@ Complex cultures – Model II: Simulation codes for complex cultural systems und
 
 Sensitivity analyses: Simulation codes and associated files used to conduct sensitivity analyses for the main simulation models.
 
-Requirements and dependencies
+**Requirements and dependencies**
 
 The simulations were developed and run using Python 3.8.8.
 
@@ -44,6 +44,6 @@ sys
 
 No additional installation is required for the standard-library modules.
 
-Reproducibility
+**Reproducibility**
 
 The scripts provided in this repository allow the simulation procedures and sensitivity analyses presented in the study to be reproduced. Please refer to the individual scripts for details on the simulation parameters, procedures, and outputs.
