@@ -4,15 +4,15 @@ The repository includes simulation codes for two types of cultural systems (simp
 
 **Repository structure**
 
-Simple cultures – Model I: Simulation codes for simple cultural systems under Model I.
+- Simple cultures – Model I: Simulation codes for simple cultural systems under Model I.
 
-Simple cultures – Model II: Simulation codes for simple cultural systems under Model II.
+- Simple cultures – Model II: Simulation codes for simple cultural systems under Model II.
 
-Complex cultures – Model I: Simulation codes for complex cultural systems under Model I.
+- Complex cultures – Model I: Simulation codes for complex cultural systems under Model I.
 
-Complex cultures – Model II: Simulation codes for complex cultural systems under Model II.
+- Complex cultures – Model II: Simulation codes for complex cultural systems under Model II.
 
-Sensitivity analyses: Simulation codes and associated files used to conduct sensitivity analyses for the main simulation models.
+- Sensitivity analyses: Simulation codes and associated files used to conduct sensitivity analyses for the main simulation models.
 
 **Requirements and dependencies**
 
@@ -20,27 +20,27 @@ The simulations were developed and run using Python 3.8.8.
 
 The following third-party packages were used:
 
-pandas 1.2.4
+- pandas 1.2.4
 
-SciPy 1.6.2
+- SciPy 1.6.2
 
-NumPy 1.20.1
+- NumPy 1.20.1
 
 The simulations also use the following Python standard-library modules:
 
-multiprocessing
+- multiprocessing
 
-itertools
+- itertools
 
-random
+- random
 
-math
+- math
 
-bisect
+- bisect
 
-os
+- os
 
-sys
+- sys
 
 No additional installation is required for the standard-library modules.
 
